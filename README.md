@@ -4,7 +4,7 @@ Course project for the umb's cs-615
 Instructions for basic interactions with this repo via git on command line.
 
 <ul>
-  <li>Install [git](https://git-scm.com/)</li>
+  <li>Install [git](https://git-scm.com)</li>
   <li>On the command line, navigate to the directory you'll be keeping this repo in.  I use <user>/repos/ for all of my repos</li>
   <li>Open the repo in a web browser, click on the "code" button, and copy the url in the https box</li>
   <li>On the command line, enter `git clone <url>`, where <url> is the link you copied in the previous step.  You may be prompted to login or setup an access token here to link your git installation to your github account</li>
