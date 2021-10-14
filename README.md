@@ -16,4 +16,4 @@ Instructions for basic interactions with this repo via git on command line.
   <li>To push a change so that the source repository's branch will now be up to date with all your local branch changes, use "git push"</li>
 </ul>
 
-These commands will be fine for now if we're just uploading files to github, but later on when we start coding we'll probably want to address branching.
+These commands will be fine for now if we're just uploading files to github, but later on when we start coding we'll probably want to address branching. 
