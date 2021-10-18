@@ -1,4 +1,3 @@
-# cs-615-project
 Course project for the umb's cs-615
 
 Instructions for basic interactions with this repo via git on command line.
